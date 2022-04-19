@@ -1,7 +1,7 @@
 {
   "name": "react-native",
   "version": "0.1.0",
-  "homepage": "./",
+  "homepage": "iniciando-os-estudos-em-reacrt/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
