@@ -1,1 +1,1 @@
-# Nesse projeto eu aprendi os conseitos iniciais de react
+# Nesse projeto eu aprendi os conceitos iniciais de react
